@@ -1,0 +1,16 @@
+{
+	"inputDirs": ["DATA_DIR"],
+	"startScript": "mtp_main.py",
+	"parameter": [
+        {
+            "key": "type1_list",
+            "value": "'appgallery &amp; games^cloud^in-app purchase^huawei id^music'",
+            "tooltip": "Business scopes (type1 list) for training"
+        },
+        {
+            "key": "preprocessed",
+            "value": "false",
+            "tooltip": "use preprocessed data or not"
+        }
+	]
+}
