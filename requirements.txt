@@ -1,0 +1,10 @@
+pandas==1.1.5
+scikit-learn==0.24.2
+tensorflow==2.6.2
+torch==1.10.2
+transformers==4.15.0
+stanza==1.4.2
+sentencepiece==0.1.97
+imblearn==0.0
+sentence-transformers==2.2.2
+pytorch-pretrained-bert==0.6.2
